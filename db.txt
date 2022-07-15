@@ -1,0 +1,19 @@
+Implementasi Strategi Algoritma
+Implementasi Algoritma Knuth-Morris-Pratt
+Implementasi Algoritma Bayer Moore
+Algoritma dan Pemrograman
+Analisi Kinerja Algoritma Brute Force
+Data Mining Klasifikasi
+Metode Numerik dan Komputasi
+Menentukan Strategi Marketing Algoritma K-Means
+Strategi Algoritma Genetika
+Strategi Promosi Perguruan Tinggi
+Data Mining Menggunakan Algoritma K-Means
+Analisa Data Penjualan Asosiasi
+Pengantar Strategi Algoritma
+Algoritma Greedy
+Data Mining Penjualan Sepatu Metode Algoritma Apriori
+Konsep Tic-Tac-Toe Algoritma Genetika
+Optimasi Algoritma Greedy Untuk Menyelesaikan Knapsack 0-1
+Bab-5 Strategi Algoritma Brute Force
+Algoritma Minimax Dalam Permainan Checkers
