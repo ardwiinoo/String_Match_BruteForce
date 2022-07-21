@@ -2,6 +2,8 @@
 # String_Match_BruteForce
 
 Program pencocokan string dengan kasus pencarian judul jurnal menggunakan algoritma brute force pada pemrograman c++.
+\
+Referensi: https://en.cppreference.com/w/cpp/string/basic_string/find
 
 
 
